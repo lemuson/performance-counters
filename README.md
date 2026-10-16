@@ -33,29 +33,23 @@
 
 ## Демонстрация работы
 
-### Главное меню программы
-
-<p align="center">
-  <img src="readme_images/001.png" alt="Главное меню программы" width="300" />
-</p>
-
-### Мониторинг счетчиков производительности
-
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-    <figure style="display: inline-block; margin: 10px; vertical-align: top; text-align: center;">
-      <img src="readme_images/002.png" alt="Счетчики CPU" width="300" /><br />
-      <figcaption>Центральный процессор (CPU)</figcaption>
-    </figure>
-    <figure style="display: inline-block; margin: 10px; vertical-align: top; text-align: center;">
-      <img src="readme_images/003.png" alt="Счетчики RAM" width="300" /><br />
-      <figcaption>Оперативная память (RAM)</figcaption>
-    </figure>
-    <figure style="display: inline-block; margin: 10px; vertical-align: top; text-align: center;">
-      <img src="readme_images/004.png" alt="Счетчики DISK" width="300" /><br />
-      <figcaption>Физический диск (DISK)</figcaption>
-    </figure>
-  </div>
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="readme_images/002.png" alt="Счетчики CPU" width="300" /><br />
+        <sub><b>Центральный процессор (CPU)</b></sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="readme_images/003.png" alt="Счетчики RAM" width="300" /><br />
+        <sub><b>Оперативная память (RAM)</b></sub>
+      </td>
+      <td align="center" valign="top">
+        <img src="readme_images/004.png" alt="Счетчики DISK" width="300" /><br />
+        <sub><b>Физический диск (DISK)</b></sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
